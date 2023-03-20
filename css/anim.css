@@ -3,6 +3,8 @@
     width: 300px;
     height: 300px;
     border: black solid 3px;
+    background-image: url("../img/1667219219_1-celes-club-p-piksel-art-cherno-belii-instagram-1.jpg");
+    background-size: 300px 300px;
 }
 
 .lines{
@@ -15,9 +17,9 @@
 }
 
 .dots{
-    width: 3px;
-    height: 3px;
-    border-radius: 3px;
+    width: 5px;
+    height: 5px;
+    border-radius: 5px;
     background-color: blue;
     display: inline-block;
 
